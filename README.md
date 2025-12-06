@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .VODKA one-word domains still available to buy.
 
-This dataset contains 4,850 .VODKA one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,854 .VODKA one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.VODKA one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vodka-oneword-domains&utm_content=description.top) (4,850) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.VODKA one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.vodka      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.vodka      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.vodka  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.vodka      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.vodka  | available | 58       | 7%     | 9      |           |         |         |
