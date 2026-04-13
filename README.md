@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .vodka one-word domains from Uniqu
 
 **Public extract:** 9,749 rows · **Live catalog:** 9,748 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/vodka`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | lemon.vodka     | resell    | —         | —             | 66             | 41     | 5      | Porkbun                 |
 | ace.vodka       | premium   | $250      | $45.99        | 88             | 57     | 3      | name.com                |
 | snap.vodka      | available | $38.98    | —             | 90             | 46     | 4      | namecheap               |
-| bear.vodka      | resell    | —         | —             | 70             | 38     | 4      | Global Domain Group LLC |
-| alpha.vodka     | premium   | $2,500    | $45.99        | 90             | 54     | 5      | name.com                |
+| clean.vodka     | resell    | —         | —             | 130            | 38     | 5      | NameCheap, Inc.         |
+| business.vodka  | premium   | $52       | $31.20        | 100            | 53     | 8      | namecheap               |
 | genius.vodka    | available | $38.98    | —             | 98             | 45     | 6      | namecheap               |
-| monkey.vodka    | resell    | —         | —             | 66             | 38     | 6      | Go France Domains Inc   |
+| bear.vodka      | resell    | —         | —             | 70             | 38     | 4      | Global Domain Group LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
