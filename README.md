@@ -1,22 +1,22 @@
-# Available .VODKA One-Word Domains (9,749)
+# Available .VODKA One-Word Domains (12,348)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C750%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C749%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C348%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .vodka one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .vodka one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,348 domains** on the canonical page below.
 
-**Public extract:** 9,750 rows · **Live catalog:** 9,749 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,348 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/vodka`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VODKA one-word domain
 
 ### Files
 
-- `vodka.csv` — public CSV extract (9,750 rows)
-- `vodka.json` — public JSON extract (9,750 rows)
+- `vodka.csv` — public CSV extract (1,000 rows)
+- `vodka.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| live.vodka      | available | $38.98    | —             | 108            | 56     | 4      | namecheap               |
-| domain.vodka    | resell    | —         | —             | 80             | 64     | 6      | GoDaddy.com, LLC        |
-| converse.vodka  | premium   | $50       | $45.99        | 64             | 73     | 8      | name.com                |
-| fast.vodka      | available | $38.98    | —             | 82             | 52     | 4      | namecheap               |
-| net.vodka       | resell    | —         | —             | 70             | 53     | 3      | Dynadot Inc             |
-| power.vodka     | premium   | $104      | $31.20        | 98             | 62     | 5      | namecheap               |
-| athletics.vodka | available | $38.98    | —             | 69             | 52     | 9      | namecheap               |
-| gold.vodka      | resell    | —         | —             | 72             | 48     | 4      | GoDaddy.com, LLC        |
-| seventeen.vodka | premium   | $50       | $45.99        | 84             | 62     | 9      | name.com                |
-| abc.vodka       | available | $38.98    | —             | 102            | 50     | 3      | namecheap               |
-| panda.vodka     | resell    | —         | —             | 88             | 47     | 5      | Global Domain Group LLC |
-| ace.vodka       | premium   | $250      | $45.99        | 88             | 57     | 3      | name.com                |
-| digital.vodka   | available | $38.98    | —             | 100            | 49     | 7      | namecheap               |
-| lemon.vodka     | resell    | —         | —             | 66             | 41     | 5      | Porkbun                 |
-| free.vodka      | premium   | $1,000    | $45.99        | 88             | 57     | 4      | name.com                |
-| snap.vodka      | available | $38.98    | —             | 90             | 46     | 4      | namecheap               |
-| clean.vodka     | resell    | —         | —             | 130            | 38     | 5      | NameCheap, Inc.         |
-| business.vodka  | premium   | $52       | $31.20        | 100            | 53     | 8      | namecheap               |
-| genius.vodka    | available | $38.98    | —             | 98             | 45     | 6      | namecheap               |
-| bear.vodka      | resell    | —         | —             | 70             | 38     | 4      | Global Domain Group LLC |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| travelers.vodka     | available | $32.49    | $32.49        | 58             | 61     | 9      | namesilo  |
+| toomuch.vodka       | resell    | —         | —             | 78             | 11     | 8      | eNom, LLC |
+| cars.vodka          | premium   | $100      | —             | 66             | 47     | 4      | name.com  |
+| farmers.vodka       | available | $43.98    | —             | 54             | 59     | 7      | namecheap |
+| justin.vodka        | premium   | $100      | —             | 58             | 38     | 7      | name.com  |
+| keepthechange.vodka | available | $43.98    | —             | 46             | 59     | 15     | namecheap |
+| Cats.vodka          | premium   | $56       | $35           | 59             | 33     | 4      | namecheap |
+| skills.vodka        | available | $43.98    | —             | 58             | 47     | 6      | namecheap |
+| Jim.vodka           | premium   | $56       | $35           | 78             | 28     | 3      | namecheap |
+| lets.vodka          | available | $43.98    | —             | 77             | 39     | 4      | namecheap |
+| trades.vodka        | premium   | $500      | —             | 71             | 26     | 6      | name.com  |
+| events.vodka        | available | $43.98    | —             | 68             | 37     | 6      | namecheap |
+| sites.vodka         | premium   | $500      | —             | 53             | 26     | 5      | name.com  |
+| aliens.vodka        | available | $32.49    | $32.49        | 56             | 35     | 6      | namesilo  |
+| Keith.vodka         | premium   | $56       | $35           | 66             | 25     | 5      | namecheap |
+| etc.vodka           | available | $43.98    | —             | 58             | 34     | 3      | namecheap |
+| Alexis.vodka        | premium   | $96       | $29.50        | 72             | 21     | 6      | namesilo  |
+| teams.vodka         | available | $43.98    | —             | 62             | 32     | 5      | namecheap |
+| VHS.vodka           | premium   | $56       | $35           | 71             | 20     | 3      | namecheap |
+| trends.vodka        | available | $43.98    | —             | 60             | 32     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,750-row public sample | 9,749 live domains                               |
+| 1,000-row public sample | 12,348 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
