@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .vodka one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,737 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,737 domains · **Median ask:** $57.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,737 domains · **Median ask:** $68.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vodka`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vodka`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VODKA one-word domain
 
 ### Files
 
-- `vodka.csv` — public CSV extract (1,000 rows)
-- `vodka.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vodka.csv`, public CSV extract (1,000 rows)
+- `vodka.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| travelers.vodka     | available | $32.49    | $32.49        | 58             | 61     | 9      | namesilo  |
-| toomuch.vodka       | resell    | —         | —             | 78             | 11     | 8      | eNom, LLC |
-| justin.vodka        | premium   | $100      | —             | 58             | 38     | 7      | name.com  |
-| farmers.vodka       | available | $43.98    | —             | 54             | 59     | 7      | namecheap |
-| Cats.vodka          | premium   | $56       | $35           | 59             | 33     | 4      | namecheap |
-| keepthechange.vodka | available | $43.98    | —             | 46             | 59     | 15     | namecheap |
-| Jim.vodka           | premium   | $56       | $35           | 78             | 28     | 3      | namecheap |
-| skills.vodka        | available | $43.98    | —             | 58             | 47     | 6      | namecheap |
-| trades.vodka        | premium   | $500      | —             | 71             | 26     | 6      | name.com  |
-| lets.vodka          | available | $43.98    | —             | 77             | 39     | 4      | namecheap |
-| sites.vodka         | premium   | $500      | —             | 53             | 26     | 5      | name.com  |
-| events.vodka        | available | $43.98    | —             | 68             | 37     | 6      | namecheap |
-| Keith.vodka         | premium   | $56       | $35           | 66             | 25     | 5      | namecheap |
-| aliens.vodka        | available | $32.49    | $32.49        | 56             | 35     | 6      | namesilo  |
-| VHS.vodka           | premium   | $56       | $35           | 71             | 20     | 3      | namecheap |
-| etc.vodka           | available | $43.98    | —             | 58             | 34     | 3      | namecheap |
-| travels.vodka       | premium   | $96       | $29.50        | 64             | 18     | 7      | namesilo  |
-| teams.vodka         | available | $43.98    | —             | 62             | 32     | 5      | namecheap |
-| ladies.vodka        | premium   | $500      | —             | 80             | 17     | 6      | name.com  |
-| trends.vodka        | available | $43.98    | —             | 60             | 32     | 6      | namecheap |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| MMR.vodka  | available | $32.49    | $32.49        | high           | low    | 3      | namesilo  |
+| ada.vodka  | premium   | $47.20    | $29.50        | medium         | medium | 3      | namesilo  |
+| xvi.vodka  | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo  |
+| awe.vodka  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
+| xxi.vodka  | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo  |
+| bee.vodka  | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo  |
+| brow.vodka | available | $43.98    | —             | medium         | low    | 4      | namecheap |
+| ben.vodka  | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo  |
+| busy.vodka | available | $32.49    | $32.49        | high           | low    | 4      | namesilo  |
+| due.vodka  | premium   | $50       | —             | high           | low    | 3      | name.com  |
+| come.vodka | available | $32.49    | $32.49        | high           | low    | 4      | namesilo  |
+| Eid.vodka  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo  |
+| cord.vodka | available | $32.49    | $32.49        | high           | low    | 4      | namesilo  |
+| fat.vodka  | premium   | $96       | $29.50        | medium         | low    | 3      | namesilo  |
+| duty.vodka | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo  |
+| fix.vodka  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo  |
+| evil.vodka | available | $32.49    | $32.49        | high           | low    | 4      | namesilo  |
+| hit.vodka  | premium   | $500      | —             | high           | low    | 3      | name.com  |
+| eyes.vodka | available | $32.49    | $32.49        | high           | low    | 4      | namesilo  |
+| ill.vodka  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .vodka domains. The set ranges from concise, brandable words like veer.vodka and ribbon.vodka to more abstract or heavier terms such as complicate.vodka, atheist.vodka, and headoverheels.vodka. With 12,735 domains in the selection and a median ask of 57.49, the main task is filtering for commercial fit rather than chasing rare supply. Founders should favor names that are easy to say, remember, and defend as a brand. Investors should focus on names with cleaner resale narratives, broad use cases, and renewal economics that do not erode the entry price advantage of this extension.
+This selection covers one-word .vodka domain names — clean, single-token names free of hyphens and numbers. Sample names like chickensoup.vodka, teeheehee.vodka, popup.vodka, and midautumn.vodka show a casual, playful tone suited to beverage brands, novelty products, and lifestyle projects. The median ask across this set sits near $69, making it approachable for quick comparison whether you're sizing up a deal or shortlisting a name for launch.
 
-- Prefer words that sound clean and distinct with .vodka
-- Use median ask 57.49 as a baseline for value checks
-- Watch for awkward meanings or narrow commercial appeal
-- Check renewal cost before treating a low ask as a deal
+- 12,737 one-word .vodka domains in this selection
+- Median ask near $69 across the set
+- No hyphens or numbers — clean, single-token names
+- Playful themes: food, lifestyle, and everyday phrases
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
