@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vodka one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,321 domains · **Median ask:** $51.35 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/vodka`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| come.vodka  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo        |
-| clx.vodka   | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo        |
-| drink.vodka | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
-| ada.vodka   | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo        |
-| iii.vodka   | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo        |
-| ape.vodka   | premium   | $96       | $29.50        | high           | low    | 3      | namesilo        |
-| ixc.vodka   | available | $33.98    | $43.98        | medium         | low    | 3      | namecheap       |
-| arc.vodka   | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo        |
-| mmr.vodka   | available | $32.49    | $32.49        | high           | low    | 3      | namesilo        |
-| awe.vodka   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo        |
-| achy.vodka  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo        |
-| bag.vodka   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo        |
-| ague.vodka  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo        |
-| bee.vodka   | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo        |
-| arse.vodka  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo        |
-| ben.vodka   | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo        |
-| awry.vodka  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo        |
-| dip.vodka   | premium   | $50       | $45.99        | high           | low    | 3      | name.com        |
-| brow.vodka  | available | $43.98    | —             | high           | low    | 4      | namecheap       |
-| eid.vodka   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo        |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| clx.vodka    | available | $32.49    | $32.49        | high           | low    | 3      | namesilo              |
+| net.vodka    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc           |
+| ada.vodka    | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo              |
+| icu.vodka    | available | $32.49    | $32.49        | high           | low    | 3      | namesilo              |
+| drink.vodka  | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.       |
+| ale.vodka    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo              |
+| iii.vodka    | available | $32.49    | $32.49        | high           | low    | 3      | namesilo              |
+| monkey.vodka | resell    | —         | —             | high           | low    | 6      | Go France Domains Inc |
+| ape.vodka    | premium   | $96       | $29.50        | high           | low    | 3      | namesilo              |
+| ixc.vodka    | available | $33.98    | $43.98        | medium         | low    | 3      | namecheap             |
+| arc.vodka    | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo              |
+| lxx.vodka    | available | $32.49    | $32.49        | medium         | low    | 3      | namesilo              |
+| awe.vodka    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo              |
+| mmr.vodka    | available | $32.49    | $32.49        | high           | low    | 3      | namesilo              |
+| bag.vodka    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo              |
+| upc.vodka    | available | $32.49    | $32.49        | high           | low    | 3      | namesilo              |
+| bar.vodka    | premium   | $500      | —             | high           | low    | 3      | name.com              |
+| achy.vodka   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo              |
+| bay.vodka    | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo              |
+| ague.vodka   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VODKA One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
