@@ -23,6 +23,7 @@ d65ea4eb-e45e-4803-bc35-0ac5febf53d0,acceptor.vodka,available,32.49,32.49,high,l
 fd7d12c4-396c-44f9-a9dd-a19b22cd937a,achene.vodka,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 00:28
 2ba64d9a-b568-4074-abd5-62f7881c07e9,sing.vodka,available,32.49,32.49,high,low,4,namesilo,,,
 11005661-a16f-4f35-9026-e976c59a3b5d,delta.vodka,premium,47.2,29.5,high,medium,5,namesilo,,,
+3464d4d8-c35b-45e9-b09a-3fe59c27786a,skate.vodka,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 06:45
 9ec68ad6-5dde-4cc0-9eaa-30e723931cdd,blunt.vodka,premium,47.2,29.5,high,low,5,namesilo,,,22/09/2026 23:15
 b0c96a0a-ef18-4f8f-b840-304b3319dbf5,ramble.vodka,available,32.49,32.49,high,low,6,namesilo,,,10/09/2026 22:10
 8c5233ba-0745-4782-81f5-bcdace8528c6,tribal.vodka,available,33.98,43.98,high,low,6,namecheap,,,11/09/2026 19:22
@@ -33,6 +34,7 @@ ad5043c0-19fe-4bf4-b0aa-674042236df5,livery.vodka,available,32.49,32.49,high,low
 5dbe0f20-f97a-4252-afa1-591a0c5bb0f6,oviparous.vodka,available,32.49,32.49,medium,low,9,namesilo,,,04/09/2026 22:09
 b1decfca-32cf-42ce-8dea-527a6352109c,cowardice.vodka,available,33.98,43.98,medium,low,9,namecheap,,,24/09/2026 18:57
 85793e92-3484-433a-b3ca-2311c757f8b7,piping.vodka,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 19:43
+1ca2fb32-daf8-403d-8f13-6c0abc57688c,catalonia.vodka,available,26.08,26.08,medium,low,9,spaceship,,,28/09/2026 09:16
 21b7f6d6-1aaf-4a44-837a-91c9b351d8af,incoherent.vodka,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 01:42
 a0cd87d0-fc43-4f89-bf3a-3353d1be5e04,tracking.vodka,available,32.49,32.49,high,low,8,namesilo,,,
 ca01d7b1-99a1-4c24-b851-fd2043483ed6,smiling.vodka,available,25.2,25.2,high,low,7,cloudflare,,,27/09/2026 23:05
@@ -56,6 +58,7 @@ c63237bf-1523-4ee1-84d4-9d979bc05e70,softish.vodka,available,32.49,32.49,medium,
 4ac7063c-f4c0-477b-8f76-9576f61012e6,febrile.vodka,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 00:27
 3c6640d1-05c8-486e-80d2-5069ab7108c2,holiday.vodka,premium,47.2,29.5,high,low,7,namesilo,,,
 1f78f6e7-8fca-4001-987e-71bd3932bac3,continuous.vodka,available,32.49,32.49,high,low,10,namesilo,,,23/09/2026 22:20
+d0fa5d63-3b95-4aec-b7ac-8cbef8ea9860,nazis.vodka,available,26.97,26.97,low,low,5,dynadot,,,28/09/2026 09:00
 e105be83-3862-4209-ad2e-eb25c93dcc23,musky.vodka,premium,47.2,29.5,high,low,5,namesilo,,,03/09/2026 11:33
 2039db2a-feb2-4b77-86aa-9df00cf07bed,impractical.vodka,available,32.49,32.49,medium,low,11,namesilo,,,
 5648bf19-ac3d-457a-adf7-e4a5c9d17ac0,boreal.vodka,available,33.98,43.98,high,low,6,namecheap,,,10/08/2026 19:55
@@ -147,6 +150,7 @@ e374bb5d-cbce-4f52-9499-d96d8b8ee014,palmae.vodka,available,32.49,32.49,medium,l
 76a4c265-b6ae-45ba-bdb9-e7b7aa8850bc,upfield.vodka,available,32.49,32.49,medium,low,7,namesilo,,,12/09/2026 23:08
 4f13f786-29ee-4739-a39b-e236a78d1452,concordant.vodka,available,33.98,43.98,high,low,10,namecheap,,,12/08/2026 20:16
 b03bce2c-91bd-449a-b7b1-2ee52eb52b2c,compatible.vodka,available,32.49,32.49,high,low,10,namesilo,,,23/09/2026 16:57
+092264f9-899e-4e58-a17c-2a6061274d0e,destroyer.vodka,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 05:31
 4648c423-528f-4032-a3c5-0dc11793b9d9,arnica.vodka,available,33.98,43.98,high,low,6,namecheap,,,20/09/2026 08:11
 a24e5b06-9bf3-4234-b237-6ddfe863d9dc,projected.vodka,available,32.49,32.49,high,low,9,namesilo,,,22/08/2026 14:46
 2a7dda07-91a1-49dc-9ec0-f343d8877f0b,obadiah.vodka,available,32.49,32.49,medium,low,7,namesilo,,,16/09/2026 14:40
@@ -175,12 +179,14 @@ d9c16d54-32e6-4e41-8ff7-22da20fdb1c7,hope.vodka,premium,47.2,29.5,high,medium,4,
 0a0cd0ed-16ca-4cd7-8e3d-a254bfb29b57,fore.vodka,available,32.49,32.49,high,low,4,namesilo,,,18/08/2026 11:26
 daaa02f0-43cf-47c4-a5c8-34346bb95cca,zanzibar.vodka,available,32.49,32.49,high,low,8,namesilo,,,
 79df590e-2168-4341-b279-ef2b738c63dd,coherent.vodka,available,32.49,32.49,high,low,8,namesilo,,,12/08/2026 16:00
+22554fcb-4f3c-46c1-bb85-aa480b9c76ea,belts.vodka,available,32.49,32.49,medium,low,5,namesilo,,,28/09/2026 09:04
 2f052152-c515-44c6-8cb9-7df73a075577,subsidiaries.vodka,available,32.49,32.49,medium,low,12,namesilo,,,20/09/2026 06:35
 569653f4-1d4c-4ea7-b2e8-73373d3e3ee7,irascible.vodka,available,32.49,32.49,medium,low,9,namesilo,,,21/08/2026 14:18
 75fca68a-99c7-4683-89be-5f2c3e700cea,simplicity.vodka,available,32.49,32.49,high,low,10,namesilo,,,
 bb82b0eb-42a0-4954-b848-bcd24c73fa79,ginger.vodka,premium,854,29.5,high,low,6,namesilo,,,18/08/2026 23:51
 c9ee156a-7748-41ed-9926-5e04d7bad6c4,kaufman.vodka,premium,52,52,medium,low,7,namecheap,,,25/09/2026 22:56
 edc40636-30ac-43ed-a506-ab315c8fece5,agnes.vodka,premium,47.2,29.5,high,low,5,namesilo,,,25/09/2026 14:30
+86947a44-7026-4826-b7d3-811295db7971,knox.vodka,premium,,,high,low,4,,,,28/09/2026 06:06
 43ea0fd5-9de9-4d40-9acc-1e2ba124f0e0,slowest.vodka,available,32.49,32.49,medium,low,7,namesilo,,,16/09/2026 02:44
 6545455c-7faf-4683-9e05-5650d162b879,germs.vodka,available,32.49,32.49,low,low,5,namesilo,,,20/09/2026 10:09
 74c9e7ea-976b-4cd8-b0c0-06d2b644cdf4,brady.vodka,premium,50,46.99,high,low,5,name.com,,,25/09/2026 02:15
@@ -202,11 +208,11 @@ b9da68a0-9ce7-40d0-a1c9-f9cc55d80d26,discreet.vodka,available,32.49,32.49,high,l
 dd4dd59a-f582-4590-a1aa-a6171305c80c,dented.vodka,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 09:08
 ea4f8388-57c7-49c8-b713-7b3e8eba599b,spinning.vodka,available,46.99,46.99,high,low,8,name.com,,,27/09/2026 05:29
 a7bdfb03-f266-4060-b568-5078a63d9d9e,slapdash.vodka,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 09:57
-820fb705-1cb7-4ab0-816d-aa0e1fb0d5fa,entertain.vodka,available,33.98,43.98,high,low,9,namecheap,,,24/09/2026 02:50
+820fb705-1cb7-4ab0-816d-aa0e1fb0d5fa,entertain.vodka,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 06:53
 ad0cd0f3-2ab7-40bf-9298-98d873de3ac3,couch.vodka,available,46.99,46.99,high,low,5,name.com,,,24/09/2026 18:35
 9bec36a5-07f8-4b7f-a366-66a3fefb6a2b,froze.vodka,available,32.49,32.49,medium,low,5,namesilo,,,
 70c9475c-d0b8-4644-8309-d536ca9694cc,fastidious.vodka,available,32.49,32.49,medium,low,10,namesilo,,,17/08/2026 15:30
-5cf2c763-2972-451d-a33b-53c6e1c7b3d7,title.vodka,available,32.49,32.49,high,low,5,namesilo,,,24/09/2026 03:07
+5cf2c763-2972-451d-a33b-53c6e1c7b3d7,title.vodka,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 09:03
 814e6cf2-af34-410d-9732-457de89c3dca,repellant.vodka,available,32.49,32.49,medium,low,9,namesilo,,,14/08/2026 10:41
 3a88f088-1da8-4496-ad63-6b3c43a37bbb,xxii.vodka,available,33.98,43.98,high,low,4,namecheap,,,21/09/2026 12:40
 940bc7bb-8b86-4974-af3f-d33e436f5209,paige.vodka,premium,96,29.5,high,low,5,namesilo,,,27/09/2026 04:38
@@ -222,6 +228,7 @@ b7745f29-7c59-4d44-92ec-d9d8c85a83c4,trussed.vodka,available,32.49,32.49,medium,
 68b8e572-de64-4f44-af37-6388aa3eef09,destructive.vodka,available,43.98,,medium,low,11,namecheap,,,
 9575204f-5fa6-41b9-bd3e-9fc4a1064bea,passable.vodka,premium,47.2,29.5,medium,low,8,namesilo,,,24/09/2026 16:16
 a90c0596-02e8-4060-a752-a0719e6d6333,minuscule.vodka,premium,47.2,29.5,high,low,9,namesilo,,,25/09/2026 15:24
+f53e47aa-ed99-4cde-932c-52319cbec78d,hoyt.vodka,premium,,,medium,low,4,,,,28/09/2026 08:07
 0412b314-8b04-4fda-a638-58593355ce6f,flourishing.vodka,available,43.98,,high,low,11,namecheap,,,
 619a0a36-1b6f-4946-b6d7-2376d6eb4854,beamish.vodka,available,32.49,32.49,medium,low,7,namesilo,,,09/08/2026 04:08
 420f8112-fd55-4189-a48d-ea88ae20eb8a,didactic.vodka,available,32.49,32.49,high,low,8,namesilo,,,14/08/2026 06:41
@@ -240,6 +247,7 @@ acedf485-9179-4db6-b97d-f72ce49a3f39,pansy.vodka,premium,47.2,29.5,medium,low,5,
 109fde04-30b2-4757-850f-896b97954344,cargo.vodka,available,32.49,32.49,high,low,5,namesilo,,,24/09/2026 12:56
 b111978e-0858-46db-8328-77166443ca5a,containers.vodka,available,33.98,43.98,medium,low,10,namecheap,,,19/09/2026 01:32
 c4787e46-23c0-4adb-9e16-5f2d1ea4b755,unknown.vodka,available,32.49,32.49,high,low,7,namesilo,,,03/09/2026 12:55
+fc34b65c-1b3d-412b-bc1e-3ef9a8344710,lasalle.vodka,premium,47.2,29.5,high,low,7,namesilo,,,28/09/2026 06:07
 51a27c93-41f7-4c72-b005-94ca4a4d692e,awkward.vodka,available,32.49,32.49,high,low,7,namesilo,,,22/09/2026 15:31
 739f8e7f-ceb1-43a1-9c4e-e3bf0e78e3c2,jingly.vodka,available,32.49,32.49,medium,low,6,namesilo,,,22/08/2026 13:29
 4d0cf48e-b17c-4eb1-9242-a2a6586e5b11,psychical.vodka,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 05:07
@@ -263,13 +271,14 @@ a3024bc2-2f92-4fd6-b660-8a8073494e09,unalike.vodka,available,32.49,32.49,medium,
 74103048-da7b-4b77-81ec-c047df676693,vixenish.vodka,available,32.49,32.49,medium,low,8,namesilo,,,13/09/2026 06:24
 a59b9ee7-6641-41db-850c-b2d5d6ec8d6b,ruffian.vodka,available,32.49,32.49,medium,low,7,namesilo,,,11/08/2026 08:41
 c2b4ca4c-614e-4430-865d-e8fb6b0b90b4,pierced.vodka,available,32.49,32.49,high,low,7,namesilo,,,08/09/2026 16:50
-701956fe-cccc-4d3f-9d6c-3a163a400289,cocktail.vodka,premium,440,26.97,high,low,8,dynadot,,,28/09/2026 02:15
+701956fe-cccc-4d3f-9d6c-3a163a400289,cocktail.vodka,premium,512,29.5,high,low,8,namesilo,,,28/09/2026 07:31
 62f5f204-ebfc-44fe-8093-2ed61094644f,oversight.vodka,available,32.49,32.49,high,low,9,namesilo,,,
 e7fdebbc-d7fc-4950-beea-39b603e0f2e7,bannock.vodka,available,33.98,43.98,medium,low,7,namecheap,,,22/09/2026 02:55
 693e50de-f0b6-47ce-bb28-d988bca1ce38,agronomy.vodka,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 19:42
 32953c80-c46b-4633-b34c-a8493a4be439,selections.vodka,available,32.49,32.49,medium,low,10,namesilo,,,20/09/2026 10:53
 1b4b0508-ff77-4a0c-802a-a85e9edefbc5,caroline.vodka,premium,100,46.99,high,low,8,name.com,,,11/08/2026 19:29
 c12805d1-264e-47a2-b3ec-436bd9ea463e,televised.vodka,available,32.49,32.49,high,low,9,namesilo,,,21/09/2026 05:39
+73fb2483-9d90-417c-a73c-5a5bd95163ef,bonding.vodka,available,25.2,25.2,high,low,7,cloudflare,,,28/09/2026 09:11
 c9af2089-100e-4722-b202-be0a596b1e8d,study.vodka,available,32.49,32.49,high,low,5,namesilo,,,27/09/2026 02:04
 29d02b2a-40ce-4d60-b6b6-6e90ca2c89b2,barytes.vodka,available,32.49,32.49,medium,low,7,namesilo,,,22/09/2026 06:13
 f95c937d-807c-47e9-bd14-7548cf70dd74,proper.vodka,available,33.98,43.98,high,low,6,namecheap,,,27/09/2026 07:40
@@ -298,16 +307,18 @@ c1c5be83-3028-413e-9721-ec8aa18228ec,goods.vodka,available,43.98,,high,low,5,nam
 74cfa126-8cd7-45bc-ad5d-e98265201623,diane.vodka,premium,104,32.5,high,low,5,namecheap,,,25/09/2026 19:09
 949f81bf-9b95-40f4-bce8-a4c5d1d884e0,meant.vodka,available,32.49,32.49,medium,low,5,namesilo,,,25/09/2026 16:51
 2b4439b2-cefe-44f4-b27f-876b84def2a3,tarsal.vodka,available,32.49,32.49,medium,low,6,namesilo,,,11/09/2026 08:42
+50cab3c7-2616-4d53-bbe8-752f2c8d1384,detect.vodka,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 06:30
 05951b2e-87b7-4dd7-ad8b-01220b729313,bethel.vodka,premium,47.2,29.5,medium,low,6,namesilo,,,23/09/2026 11:13
 86e88028-5495-427c-8c24-cf6dc87bfd3a,countless.vodka,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 00:28
 e47b254c-88cf-4d62-930a-30ce92f24b7b,cactus.vodka,premium,47.2,29.5,high,low,6,namesilo,,,24/09/2026 11:36
 d1d34654-7dc3-44e8-85f8-8357af9819cf,barrio.vodka,available,32.49,32.49,medium,low,6,namesilo,,,22/09/2026 08:38
-65dee061-c9cd-4522-add2-700259d60f70,corporate.vodka,available,33.98,43.98,high,low,9,namecheap,,,23/09/2026 06:11
+65dee061-c9cd-4522-add2-700259d60f70,corporate.vodka,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 04:27
 8ea3e7be-3c1f-4743-9429-42914ceb79d3,arresting.vodka,available,32.49,32.49,high,low,9,namesilo,,,06/08/2026 21:47
 4378e0bf-f913-4200-a263-2e85d1a62efc,copper.vodka,available,32.49,32.49,high,low,6,namesilo,,,20/09/2026 22:44
 65d1893d-46d5-4717-958d-d608d5adc687,designate.vodka,available,32.49,32.49,high,low,9,namesilo,,,14/08/2026 03:42
 1173f6cf-02d5-428b-8ac9-0537226da98e,carrie.vodka,premium,47.2,29.5,high,low,6,namesilo,,,
 23a6b630-1a1d-4146-80b2-ca4c876fcc74,awestruck.vodka,available,32.49,32.49,medium,low,9,namesilo,,,08/08/2026 01:00
+5475b5fc-151a-4b20-9f3b-4e31cc7f286f,remark.vodka,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 09:26
 44bac684-c0fb-4911-a210-dd93d0513bf5,auroral.vodka,available,32.49,32.49,high,low,7,namesilo,,,22/09/2026 13:08
 8216bfc2-e5c6-481e-8f34-fa977f9390ee,induce.vodka,available,32.49,32.49,high,low,6,namesilo,,,
 974ecda3-1c26-438a-a59e-0a94c9879b03,mazy.vodka,available,32.49,32.49,medium,low,4,namesilo,,,22/08/2026 17:42
@@ -349,14 +360,16 @@ ed951c20-d321-4ee2-9c52-90d1083f4030,czech.vodka,premium,250,46.99,high,low,5,na
 79154865-42a0-411d-b076-dcdc782cf2c1,rifle.vodka,available,33.98,43.98,high,low,5,namecheap,,,27/09/2026 04:01
 f74a86cd-55f2-4b36-9076-a8e9c6385278,resolute.vodka,available,32.49,32.49,high,low,8,namesilo,,,27/09/2026 12:14
 cf8e4985-bd5a-4538-a687-5f4d07bbb8af,arava.vodka,available,32.49,32.49,medium,low,5,namesilo,,,20/09/2026 00:28
+86c4c728-9619-4302-84dd-90c3d2518851,waco.vodka,premium,41.6,26.08,high,low,4,spaceship,,,28/09/2026 06:51
 424b7318-a46e-4de3-bf51-f7e3af6e12a0,aegir.vodka,available,32.49,32.49,medium,low,5,namesilo,,,14/08/2026 22:18
 02944781-a0d4-47e0-931c-5a525b231d83,rihanna.vodka,available,32.49,32.49,high,low,7,namesilo,,,
 8b2fcde9-6987-49c5-adff-bf61fb56d042,mismatched.vodka,available,32.49,32.49,medium,low,10,namesilo,,,25/08/2026 01:36
 f1e47d6d-e49f-4819-9d95-31fa05cfb466,exec.vodka,available,32.49,32.49,high,low,4,namesilo,,,
-59be3b03-2276-4409-ba16-620111ae4ca6,acquisition.vodka,available,32.49,32.49,high,low,11,namesilo,,,24/09/2026 02:35
+59be3b03-2276-4409-ba16-620111ae4ca6,acquisition.vodka,available,32.49,32.49,high,low,11,namesilo,,,28/09/2026 05:29
 f0f51be7-b909-4744-8086-e03f8537524f,betting.vodka,premium,100,46.99,high,low,7,name.com,,,09/08/2026 18:14
 a4ec2b44-ad55-4bb2-8e75-e178a14e4d78,allowance.vodka,available,32.49,32.49,high,low,9,namesilo,,,
 3006b2ff-9de7-4ffd-bdcb-5f1293cb0940,hearty.vodka,available,32.49,32.49,high,low,6,namesilo,,,21/08/2026 02:13
+11ee130c-7483-4075-a2fe-23cb39cbe4b5,unbelievable.vodka,available,32.49,32.49,high,low,12,namesilo,,,28/09/2026 07:08
 224aaf3e-fe87-4424-8206-3580a883d9a2,adnate.vodka,available,32.49,32.49,medium,low,6,namesilo,,,
 e6336147-3c85-44e7-aff9-f16f8d4189a1,apis.vodka,available,32.49,32.49,high,medium,4,namesilo,,,19/09/2026 17:28
 641829aa-7ea4-4918-8de0-0d545e38e999,lloyd.vodka,premium,47.2,29.5,high,low,5,namesilo,,,25/09/2026 06:57
@@ -378,7 +391,7 @@ a8218c43-fc32-4fa9-a51d-dc2583b8bf83,alkahest.vodka,available,32.49,32.49,medium
 b7016d0c-2510-4039-b898-b7a3413c4650,oaten.vodka,available,32.49,32.49,medium,low,5,namesilo,,,03/09/2026 23:28
 0b12a7bd-c8d5-4a74-b63e-55e48288dfb8,mellow.vodka,available,33.98,43.98,high,low,6,namecheap,,,22/08/2026 18:52
 d950659c-0008-4a5d-9fc1-31b29570d1da,arc.vodka,premium,47.2,29.5,high,medium,3,namesilo,,,06/08/2026 15:03
-505a5038-8d87-4c44-b992-1c1f5bb6d119,cream.vodka,premium,2600,32.5,high,low,5,namecheap,,,23/09/2026 06:38
+505a5038-8d87-4c44-b992-1c1f5bb6d119,cream.vodka,premium,2660,29.5,high,low,5,namesilo,,,28/09/2026 04:30
 ab1d87f6-751e-4eb2-9836-de9d37756dea,marian.vodka,premium,47.2,29.5,high,low,6,namesilo,,,24/08/2026 15:53
 3d76f128-0d9a-43af-a5b4-ef54800bd024,medicinal.vodka,premium,50,46.99,high,low,9,name.com,,,24/08/2026 19:01
 9b2bdfee-aeb4-4b10-80a2-3e331248e053,already.vodka,available,32.49,32.49,high,low,7,namesilo,,,
@@ -501,7 +514,7 @@ ca712fb0-6b3d-40c6-8933-4028de317267,aseptic.vodka,available,32.49,32.49,high,lo
 657e4afe-717c-42a8-b25e-8c03ae8e8e91,steely.vodka,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 19:47
 8c277434-777c-42f8-b099-af92785847c8,anaerobe.vodka,available,32.49,32.49,medium,low,8,namesilo,,,19/09/2026 01:18
 2dece56f-568f-4220-b1e0-ebf0594ba802,trigon.vodka,available,32.49,32.49,high,low,6,namesilo,,,11/09/2026 19:46
-0b90a9e3-f6b3-4ef5-9e54-aac701042a1f,technique.vodka,available,43.98,,high,low,9,namecheap,,,
+0b90a9e3-f6b3-4ef5-9e54-aac701042a1f,technique.vodka,available,26.08,26.08,high,low,9,spaceship,,,28/09/2026 08:09
 2ed15abd-51f3-459a-bf15-7a91284d91bf,albee.vodka,premium,52,32.5,medium,low,5,namecheap,,,18/09/2026 02:31
 5211c503-119c-4b1f-b1a6-4869872905ae,arethusa.vodka,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 04:04
 f55948ee-2920-47fd-b84b-9083db080c67,barbarous.vodka,available,32.49,32.49,medium,low,9,namesilo,,,08/08/2026 15:40
@@ -603,9 +616,10 @@ cf18a09d-d826-445a-a0d5-f028dbad57a6,disparate.vodka,available,32.49,32.49,mediu
 ad852f17-3759-49fc-b438-fff8537ebbb0,marines.vodka,available,43.98,,high,low,7,namecheap,,,
 da93e788-ebba-49d4-84c5-bf3068ff842a,painful.vodka,available,32.49,32.49,high,low,7,namesilo,,,
 51f504f8-497b-445c-87c7-da30423622c5,seattle.vodka,premium,500,,high,low,7,name.com,,,
+54ebda74-9e3c-49e5-9c6c-1a575840ebff,survivors.vodka,available,25.2,25.2,medium,low,9,cloudflare,,,28/09/2026 05:06
 c7023297-4c3e-4d95-bbf2-e001b770d87d,obviously.vodka,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 03:52
 ce13f996-8f90-4c09-bd76-2b3570578b89,unfamiliar.vodka,available,32.49,32.49,high,low,10,namesilo,,,12/09/2026 09:55
-86fc0e26-3e0f-40cd-97ca-c0d3ba29eaa5,revenues.vodka,available,32.49,32.49,medium,low,8,namesilo,,,25/09/2026 09:02
+86fc0e26-3e0f-40cd-97ca-c0d3ba29eaa5,revenues.vodka,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 04:22
 b678fb08-1d55-4c65-93e2-e155eaa2da74,coupons.vodka,premium,512,29.5,medium,low,7,namesilo,,,21/09/2026 07:55
 2c058343-a297-4e0d-85c4-3a054c14b5da,teen.vodka,premium,52,32.5,high,low,4,namecheap,,,21/09/2026 19:11
 d7e7a0f0-6751-4cb2-8087-82457464f955,aeolus.vodka,available,33.98,43.98,medium,low,6,namecheap,,,17/09/2026 12:36
@@ -635,12 +649,14 @@ a930b1e6-f136-4640-b534-ce1773bc5e43,akhenaton.vodka,available,32.49,32.49,mediu
 45ffc775-05e3-46b2-935d-6a7475e33738,heptad.vodka,available,32.49,32.49,medium,low,6,namesilo,,,
 78595aee-6073-4d2c-b284-c76b7820a953,declared.vodka,available,33.98,43.98,medium,low,8,namecheap,,,13/08/2026 21:46
 70c836f2-8599-4fe6-8a89-f44fdb79f139,numeric.vodka,available,32.49,32.49,high,low,7,namesilo,,,03/09/2026 22:54
-d5711c94-1a69-44d1-9b66-3f5e3cb48ad0,business.vodka,premium,47.2,29.5,high,medium,8,namesilo,,,27/09/2026 01:37
+d5711c94-1a69-44d1-9b66-3f5e3cb48ad0,business.vodka,premium,47.2,29.5,high,medium,8,namesilo,,,28/09/2026 07:07
 15eca3ac-b711-46c9-b821-26c33eee494f,brewer.vodka,premium,47.2,29.5,high,low,6,namesilo,,,23/09/2026 01:41
+a42a42ee-7315-49dd-a4e2-f65963b51681,watertown.vodka,premium,52,32.5,medium,low,9,namecheap,,,28/09/2026 06:52
 a40c1821-30f5-447e-87ff-1ad7c230fa64,tarry.vodka,available,32.49,32.49,medium,low,5,namesilo,,,09/09/2026 15:16
 6cb33822-5608-4f3b-968f-0032da701c5c,baneberry.vodka,premium,47.2,29.5,medium,low,9,namesilo,,,22/09/2026 01:43
 04f4533d-ba1d-4069-bf0a-feaa60f9dfc2,plaster.vodka,available,33.98,43.98,high,low,7,namecheap,,,17/09/2026 07:59
 1d46c2da-3477-4bde-a5f0-69d2fa66c174,girl.vodka,premium,1000,,high,low,4,name.com,,,
+507aceac-c154-432d-ad19-bdef73bfb928,fade.vodka,premium,44,26.97,high,low,4,dynadot,,,28/09/2026 05:41
 a972b5ac-622f-4490-895e-f47df114a1f4,rape.vodka,premium,47.2,29.5,high,low,4,namesilo,,,24/09/2026 08:17
 727b6bbe-341a-43ca-b808-58da8a51b24e,meade.vodka,available,32.49,32.49,high,low,5,namesilo,,,27/09/2026 04:12
 ebb5aa15-c869-480e-8801-fd9b7b51c985,hamilton.vodka,premium,500,,high,medium,8,name.com,,,
@@ -676,7 +692,7 @@ dc7721b9-4acc-4ea1-9684-444b3803594c,gigantic.vodka,premium,47.2,29.5,high,low,8
 7e5ff32b-d48a-4292-8940-3d221e0e609a,fishing.vodka,premium,854,29.5,high,low,7,namesilo,,,27/09/2026 03:59
 dab1e5c3-ca36-4de4-b6f9-13077518a93e,turbulent.vodka,available,32.49,32.49,medium,low,9,namesilo,,,14/08/2026 12:26
 bdb21172-095d-4989-bc52-6fc13ac8f494,malthusian.vodka,available,32.49,32.49,medium,low,10,namesilo,,,24/08/2026 14:17
-b718fce9-78aa-4964-81f9-55e1d3958a96,robots.vodka,available,32.49,32.49,high,medium,6,namesilo,,,25/09/2026 22:44
+b718fce9-78aa-4964-81f9-55e1d3958a96,robots.vodka,available,26.26,26.26,high,medium,6,porkbun,,,28/09/2026 04:57
 eb9e1f7a-2b55-4e99-8514-964066d35ff7,hip.vodka,premium,47.2,29.5,high,low,3,namesilo,,,21/08/2026 06:45
 84f16596-360d-4293-8ad6-292844febd0c,wentworth.vodka,premium,47.2,29.5,high,low,9,namesilo,,,25/09/2026 21:47
 db722a2a-f096-486e-b8a8-a7dfd7351034,fools.vodka,available,32.49,32.49,medium,low,5,namesilo,,,27/09/2026 23:44
@@ -701,6 +717,7 @@ cb61de84-7c8a-46c7-bd74-202d58afae4e,moonflower.vodka,available,32.49,32.49,high
 53bdcddd-8408-4190-84cd-856187688126,suffered.vodka,available,32.49,32.49,low,low,8,namesilo,,,27/09/2026 02:46
 6c524fe2-4a6b-44b6-9894-9772becb1072,aerobic.vodka,available,46.99,46.99,high,low,7,name.com,,,21/09/2026 21:01
 dbce18c3-2a65-4ab7-9581-92dd25dc000e,bobcat.vodka,available,32.49,32.49,high,medium,6,namesilo,,,22/09/2026 17:27
+925b981f-f701-46b3-b1ab-abcfa3b8d5bc,conan.vodka,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 07:59
 7e7a32a9-af17-44f7-8847-31f145954521,retrieve.vodka,available,32.49,32.49,high,low,8,namesilo,,,
 7ae076f9-7d97-4bb4-ad77-68d4c7ba8268,antidote.vodka,available,32.49,32.49,high,low,8,namesilo,,,19/09/2026 14:20
 4d336705-dc30-498f-94e2-a9c501470d79,luxe.vodka,available,46.99,46.99,high,low,4,name.com,,,13/08/2026 19:13
@@ -728,6 +745,7 @@ a01f5f09-dcd1-4d89-b413-07779c4b1102,gratuity.vodka,available,32.49,32.49,high,l
 e58c46b7-9e2f-48db-8e2e-0df0cc54e9ce,ann.vodka,premium,47.2,29.5,high,low,3,namesilo,,,
 6eb0b024-5568-422b-90ed-3789e3321ad8,nodding.vodka,available,32.49,32.49,high,low,7,namesilo,,,12/08/2026 00:48
 8d8bd4bb-ab65-40f7-977e-254a7876d872,protocols.vodka,available,32.49,32.49,medium,low,9,namesilo,,,19/09/2026 04:47
+d35566e2-8292-42df-89dc-5e5f1d7cbe57,reggie.vodka,premium,41.6,26.08,high,low,6,spaceship,,,28/09/2026 07:45
 62120c5a-4d56-4a0e-b520-1575af35b2c3,swords.vodka,available,32.49,32.49,medium,low,6,namesilo,,,
 4a3a11ea-1b3b-42f4-b96c-1b2b543672a6,logy.vodka,available,32.49,32.49,medium,low,4,namesilo,,,18/08/2026 09:55
 8fd51354-64b7-4c70-ac75-93388c7573d3,capability.vodka,available,33.98,43.98,high,low,10,namecheap,,,24/09/2026 12:11
@@ -747,6 +765,7 @@ aef5f477-4e27-4090-a363-9ad5105b00d1,unsized.vodka,available,33.98,43.98,medium,
 adf2c75a-5a10-4e31-912e-3090cebba593,firm.vodka,available,26.26,26.26,high,low,4,porkbun,,,28/09/2026 03:17
 51fb2410-11c9-4359-a4c5-056d67112f9f,plump.vodka,premium,47.2,29.5,high,low,5,namesilo,,,12/08/2026 07:35
 aea6af61-cb23-4bb5-9932-e37d48370656,veggies.vodka,available,33.98,43.98,medium,low,7,namecheap,,,18/09/2026 15:41
+db412d40-8fb5-4cf9-8593-89316c442136,reno.vodka,premium,,,high,low,4,,,,28/09/2026 06:40
 6c2b44a4-88bc-4c08-be2a-2031b0069539,demands.vodka,available,33.98,43.98,low,low,7,namecheap,,,27/09/2026 10:52
 616daa89-000b-4558-a46f-ff8b94ce902e,balagan.vodka,available,33.98,43.98,medium,low,7,namecheap,,,21/09/2026 20:48
 3655b8ba-e221-4d18-9c20-56673ddc2d8a,travellers.vodka,available,32.49,32.49,high,low,10,namesilo,,,17/09/2026 22:15
@@ -783,13 +802,13 @@ e913174d-586e-4ead-83c7-d949b45ea44a,bandanna.vodka,available,32.49,32.49,high,l
 d9f7a7e6-4426-4ff6-89f3-90c4f7f4e200,kinsey.vodka,available,32.49,32.49,high,low,6,namesilo,,,18/09/2026 06:26
 96a72ed0-b3df-4ff5-9e88-fb9d312f0ce8,batsman.vodka,available,46.99,46.99,medium,low,7,name.com,,,22/09/2026 14:19
 129fae2e-ddf0-40d7-93c0-49ef70c319c2,pit.vodka,premium,47.2,29.5,high,low,3,namesilo,,,24/09/2026 13:22
-c1ceb006-8c9d-4d00-9e77-aefb25448485,invoice.vodka,available,32.49,32.49,high,low,8,namesilo,,,24/09/2026 05:24
+c1ceb006-8c9d-4d00-9e77-aefb25448485,invoice.vodka,available,26.97,26.97,high,low,8,dynadot,,,28/09/2026 08:16
 b6e442ca-3704-452b-968b-ddb05dbe041f,beckley.vodka,available,33.98,43.98,medium,low,7,namecheap,,,22/09/2026 22:43
 6f245dbd-ebe1-4783-96c3-9685de04dabd,headlong.vodka,available,32.49,32.49,medium,low,8,namesilo,,,21/08/2026 01:16
 dcb2f83d-9d8a-4bf5-a8bd-cd375abee666,blocks.vodka,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 21:52
 1c3bbc9b-2b23-4b34-94fa-42d3d1ac0a32,weber.vodka,premium,47.2,29.5,high,low,5,namesilo,,,22/09/2026 07:12
 120c7e6c-248f-43cc-bd33-1b2eb3913bcc,invertible.vodka,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 09:00
-b40ec387-4238-4e95-847e-f972e9d3cbda,turned.vodka,available,32.49,32.49,high,low,6,namesilo,,,
+b40ec387-4238-4e95-847e-f972e9d3cbda,turned.vodka,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 09:34
 99e25e04-1568-4481-af2c-c03bd9bbc4e0,antibody.vodka,available,32.49,32.49,high,low,8,namesilo,,,19/09/2026 14:14
 85ab55c1-4573-4fa4-98c7-810d4f18a948,undefiled.vodka,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 06:15
 4fd9f9a6-9850-42f5-933c-3e436c9dbf2a,fat.vodka,premium,96,29.5,high,low,3,namesilo,,,24/09/2026 17:19
@@ -810,9 +829,11 @@ c9858474-f8a9-4186-a0c4-9e3a70a9c2ac,trapped.vodka,available,32.49,32.49,medium,
 d9391917-698d-4c17-b40b-60b96b0f37c4,competency.vodka,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 16:48
 97696923-c5fb-46d2-8508-656b089b407a,billed.vodka,available,33.98,43.98,high,low,6,namecheap,,,09/08/2026 21:23
 2da0dfa3-2b99-48a1-85ab-742f01b325b9,episode.vodka,available,32.49,32.49,high,low,7,namesilo,,,
+ac40060c-eb38-493e-81a7-dc3e219c06e7,homework.vodka,available,33.98,43.98,high,low,8,namecheap,,,28/09/2026 06:00
 0ce4cd34-ce87-4808-aa1a-b5aa74e3212a,possession.vodka,available,43.98,,high,low,10,namecheap,,,
 cbef3c37-8cb1-4d30-a534-f4b616c1aee4,lyrate.vodka,available,32.49,32.49,medium,low,6,namesilo,,,24/08/2026 12:39
 5e673075-869e-4886-8e37-047891d0188f,clarifying.vodka,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 09:37
+f67acb0c-24cd-4812-ac77-d30d683fc670,knives.vodka,premium,41.6,26.08,medium,low,6,spaceship,,,28/09/2026 05:00
 421f22fa-4cc0-438d-8bb8-26aac3503126,caption.vodka,available,32.49,32.49,high,low,7,namesilo,,,24/09/2026 12:41
 85f15b68-c0fb-472b-982e-99e970c7a6a1,estimating.vodka,available,32.49,32.49,medium,low,10,namesilo,,,
 2206ee1c-c575-4164-a856-0471d444cfa2,such.vodka,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 01:50
@@ -888,7 +909,7 @@ ec06bad5-654c-4b00-8d68-d6a50375fefe,scrubbed.vodka,available,25.2,25.2,medium,l
 133782b9-43f5-48bc-bcfd-de390af85f71,frizzly.vodka,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 16:06
 41d4a476-d314-4855-a9e9-9c08461ba808,pickings.vodka,available,32.49,32.49,medium,low,8,namesilo,,,11/09/2026 07:21
 73ebe4e5-5a28-45ad-9df1-6f5a2fd27a3b,unchewable.vodka,available,32.49,32.49,high,medium,10,namesilo,,,10/09/2026 08:18
-0430e502-fc56-43b4-9bc2-c318a15c2e7f,loans.vodka,available,32.49,32.49,high,low,5,namesilo,,,19/09/2026 21:43
+0430e502-fc56-43b4-9bc2-c318a15c2e7f,loans.vodka,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 05:18
 1cf093e9-84ac-476d-a355-03eb501f1a93,disney.vodka,available,32.49,32.49,high,high,6,namesilo,,,
 0711b5c3-3347-415e-b772-ea0f3cbbb331,snappish.vodka,available,32.49,32.49,high,medium,8,namesilo,,,10/09/2026 12:18
 d4cd7464-09b8-4f48-a97f-59f833b32f2d,purse.vodka,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 23:04
@@ -941,7 +962,7 @@ bc85b16b-2d74-4069-b072-752887c4d938,cooker.vodka,available,33.98,43.98,high,low
 c9d0f7d2-7ff9-4680-bb4a-a0f3d4865b76,new.vodka,premium,242,29.5,high,medium,3,namesilo,,,24/09/2026 21:46
 e41fc9fe-1a47-49c4-ba19-c26e68ec1848,ivry.vodka,available,33.98,43.98,medium,low,4,namecheap,,,22/09/2026 15:16
 d9aee679-adca-44d2-8123-ff044166954f,marbled.vodka,available,32.49,32.49,medium,low,7,namesilo,,,24/08/2026 15:47
-dc6dcf23-77be-44be-a7c5-53fc152cc815,address.vodka,available,32.49,32.49,high,low,7,namesilo,,,24/09/2026 02:37
+dc6dcf23-77be-44be-a7c5-53fc152cc815,address.vodka,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 06:48
 665a0d33-b977-46e3-ab66-9f7570fab46f,dumpy.vodka,available,33.98,43.98,medium,low,5,namecheap,,,14/08/2026 21:10
 42b61c0a-2fc2-4aa8-ae5e-8eaa6c6f36b7,sixteen.vodka,premium,52,32.5,high,low,7,namecheap,,,21/09/2026 11:48
 53b3ac04-95d0-4f00-a7e9-9bb5f7a81c64,souls.vodka,available,32.49,32.49,high,low,5,namesilo,,,
@@ -978,24 +999,3 @@ bb292240-e0f4-4367-8fdd-82ef5b8d2f42,fabricated.vodka,available,33.98,43.98,high
 90584ad4-0ed6-4e9a-9c4e-2f37c0239776,ritually.vodka,available,32.49,32.49,medium,low,8,namesilo,,,15/09/2026 23:55
 7c7c2040-a87f-4a24-ae30-577ef490a701,other.vodka,available,32.49,32.49,high,low,5,namesilo,,,26/09/2026 00:34
 7af9bf40-77b4-4019-9010-85cfa2649b86,doubled.vodka,available,32.49,32.49,high,low,7,namesilo,,,14/08/2026 16:55
-f4c529cc-a9dd-48e1-a3ee-10adef21017a,acquiring.vodka,available,32.49,32.49,high,low,9,namesilo,,,17/09/2026 02:42
-dec63b8f-da97-4e71-b5c7-f5f7264b5914,petite.vodka,premium,47.2,29.5,medium,low,6,namesilo,,,08/08/2026 14:24
-175cf5f6-0a67-4131-8bad-2651ae9b7869,alveolus.vodka,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 22:03
-627b6090-d67c-4952-89ea-fd81086a37c4,peckish.vodka,available,32.49,32.49,medium,low,7,namesilo,,,22/08/2026 10:23
-53731555-c50d-4890-88bd-a82e1619a92b,moved.vodka,available,32.49,32.49,high,low,5,namesilo,,,
-18a4fe2f-7a62-4f40-8948-919754c40cd1,overhead.vodka,available,32.49,32.49,high,low,8,namesilo,,,26/09/2026 03:30
-9c2f7e25-149a-44f0-b9da-232e3390ca19,asarum.vodka,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 12:52
-323862d0-d5a2-4476-bed0-883e32eb6d85,jacobs.vodka,premium,47.2,29.5,high,low,6,namesilo,,,
-38737b36-ce70-481c-a81e-e3454c22b667,approaches.vodka,available,33.98,43.98,high,low,10,namecheap,,,23/09/2026 20:05
-e34f643c-973a-4913-a756-7c5b021698b7,niggle.vodka,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 13:17
-b46bc61d-7438-43c7-b59d-6eb87022f9ab,abundantly.vodka,available,32.49,32.49,high,low,10,namesilo,,,
-1d5ff6c9-ea47-45ec-a0ed-72218af5a65b,cloaks.vodka,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 14:28
-02cc8395-28b1-49f4-a3c1-9b712cfe2a47,swingy.vodka,available,32.49,32.49,medium,low,6,namesilo,,,23/08/2026 09:29
-fc8edb8e-0d39-4a9f-bf72-b3b9054f4325,vacations.vodka,available,32.49,32.49,medium,low,9,namesilo,,,20/09/2026 00:12
-3043f55d-ca6f-46a8-ae74-cb4b43e149a0,mimosa.vodka,available,33.98,43.98,high,low,6,namecheap,,,16/09/2026 20:07
-c2780539-5dc7-471f-9540-f7bbacc2f25f,cornish.vodka,premium,47.2,29.5,high,low,7,namesilo,,,13/08/2026 01:42
-bb4133b4-cfe2-43ba-82b9-96659c75352f,ashkenazi.vodka,available,32.49,32.49,medium,low,9,namesilo,,,20/09/2026 13:54
-9216ee5a-4127-471f-a5b6-e2510d58d267,bidding.vodka,available,33.98,43.98,high,low,7,namecheap,,,23/09/2026 13:29
-bc6a83c9-5e52-414d-a574-b40cefd89b27,boyd.vodka,premium,52,32.5,high,low,4,namecheap,,,25/09/2026 14:55
-19c5c365-5a1c-4f35-bba1-d3e3694f11db,vanity.vodka,available,32.49,32.49,high,low,6,namesilo,,,
-dbbcf5e1-c4ce-4409-b34b-9f982c591d29,specks.vodka,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 10:46
